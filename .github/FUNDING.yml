@@ -12,4 +12,4 @@
 # polar: # Replace with a single Polar username
 # buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
 # thanks_dev: # Replace with a single thanks.dev username
-custom: 'https://commerce.coinbase.com/checkout/cde7f55f-de1c-4ddd-8335-fd7347ff0a18'
+custom: ['https://commerce.coinbase.com/checkout/cde7f55f-de1c-4ddd-8335-fd7347ff0a18', 'https://buymeacoffee.com/aiswarmhub']
